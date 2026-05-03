@@ -1,0 +1,10 @@
+name: s
+folder_name: s
+author: Koala
+version: 1.0.0
+category: Other
+github:
+    repo: Koalazau/powerranger
+    branch: main
+    commit: 55181032866e2853ba752680fc9a58bd7317651e
+has_dangerous_files: false
