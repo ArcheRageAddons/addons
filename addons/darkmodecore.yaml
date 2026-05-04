@@ -1,0 +1,21 @@
+name: "DarkMode CORE"
+  folder_name: "ui"
+  author: "Koala"
+  version: "1.0.0"
+  description: "UI overhaul that converts the existing UI into a darker version. Make sure you have enabled UI Customization in the game settings and have fully restarted the game at least once before downloading the addon."
+  category: "UI Enhancement"
+  icon: "https://..."
+  keywords:
+    - ui
+    - overhaul
+  github:
+    repo: "Koalazau/ArcheRageAddons"
+    branch: "main"
+    commit: "5628dd6"   # full or 7+ char SHA from your source repo
+    path: "darkmodecore"      # omit if installing from repo root
+    tag: ""                     # leave empty unless you tag releases
+  dependencies: []
+  has_dangerous_files: false    # set true + list them if you have any
+  submitter_discord: "Koala"
+  submitter_github: "Koalazau"
+  submitted_at: "2026-05-04T00:00:00Z"   # ISO 8601, current UTC
