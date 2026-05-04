@@ -1,0 +1,18 @@
+name: Bag Counter
+folder_name: bagslotcount
+author: Koala
+version: 1.0.0
+description: |-
+    Easy to see how many bag slots you have left, using the !bag up/down/left/right (number) to move the number around.
+
+    Plays a sound when you are at or under 12 slots left.
+category: Quality of Life
+github:
+    repo: Koalazau/ArcheRageAddons
+    branch: main
+    commit: 5628dd6217bfe31323084c9d50add73d0e9aec32
+    path: bagslotcount
+has_dangerous_files: false
+submitter_discord: "Koala"
+submitter_github: "Koalazau"
+submitted_at: "2026-05-04T11:21:55.666Z"
