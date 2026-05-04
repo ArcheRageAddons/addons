@@ -8,9 +8,9 @@ keywords:
   - ui
   - overhaul
 github:
-  repo: "Koalazau/ArcheRageAddons"
+  repo: "Koalazau/DarkModeUI"
   branch: "main"
-  commit: "5628dd6"   # full or 7+ char SHA from your source repo
+  commit: "49725d7"   # full or 7+ char SHA from your source repo
   path: "darkmodecore"      # omit if installing from repo root
 dependencies: []
 has_dangerous_files: false    # set true + list them if you have any
