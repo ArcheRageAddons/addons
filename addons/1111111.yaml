@@ -1,0 +1,15 @@
+name: "111111"
+folder_name: "1111111"
+author: Koala
+version: 1.0.0
+category: Other
+github:
+    repo: Koalazau/powerranger
+    branch: main
+    commit: 95a1b0db9358bea2c96fd211c20f7c32952b59aa
+has_dangerous_files: true
+dangerous_files:
+  - "testfile.bat"
+submitter_discord: "Koala"
+submitter_github: "Koalazau"
+submitted_at: "2026-05-04T10:28:20.525Z"
