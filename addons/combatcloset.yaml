@@ -1,9 +1,10 @@
 name: Combat Closet
 folder_name: combatcloset
 author: Koala
-version: 1.0.1
+version: 1.0.2
 description: Easy to use system that allows you to take your existing equipped gear/costumes/titles and attach them to a button to quickly swap between sets, also has keybind functionality built in.
 category: Combat
+icon: https://raw.githubusercontent.com/Koalazau/ArcheRageAddonsIcons/main/combatcloset.png
 github:
     repo: Koalazau/ArcheRageAddons
     branch: main
@@ -12,4 +13,4 @@ github:
 has_dangerous_files: false
 submitter_discord: "Koala"
 submitter_github: "Koalazau"
-submitted_at: "2026-05-05T10:17:22.970Z"
+submitted_at: "2026-05-05T12:04:45.045Z"
