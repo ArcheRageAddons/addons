@@ -4,6 +4,7 @@ author: "Koala"
 version: "1.0.0"
 description: "UI overhaul that converts the existing UI into a darker version. Make sure you have enabled UI Customization in the game settings and have fully restarted the game at least once before downloading the addon."
 category: "UI Enhancement"
+icon: https://raw.githubusercontent.com/Koalazau/ArcheRageAddonsIcons/main/darkmode.png
 keywords:
   - ui
   - overhaul
