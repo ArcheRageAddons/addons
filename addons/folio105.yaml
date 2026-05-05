@@ -1,7 +1,7 @@
 name: Folio2.0
 folder_name: Folio105
 author: Koala
-version: 1.0.0
+version: 1.0.1
 description: Using your current commerce proficiency see the expected profit of any pack run in the game, even using auction house prices to calculate profit potential.
 category: Trading & Economy
 keywords:
@@ -10,9 +10,9 @@ keywords:
 github:
     repo: Koalazau/ArcheRageAddons
     branch: main
-    commit: 5628dd6217bfe31323084c9d50add73d0e9aec32
+    commit: a3b37ecc1c60f6c831e72dfa1dcc74ddb20d35ee
     path: Folio105
 has_dangerous_files: false
 submitter_discord: "Koala"
 submitter_github: "Koalazau"
-submitted_at: "2026-05-04T11:17:31.380Z"
+submitted_at: "2026-05-05T10:17:34.362Z"
