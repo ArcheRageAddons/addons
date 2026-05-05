@@ -1,11 +1,10 @@
 name: DarkMode Patcher
 folder_name: ui-patch
 author: Koala
-version: 1.0.0
+version: 1.0.1
 category: Other
 dependencies:
     - darkmodecore
-overlay_of: darkmodecore
 github:
     repo: Koalazau/ArcheRageAddons
     branch: main
@@ -14,4 +13,4 @@ github:
 has_dangerous_files: false
 submitter_discord: "Koala"
 submitter_github: "Koalazau"
-submitted_at: "2026-05-04T12:40:47.919Z"
+submitted_at: "2026-05-05T10:18:30.428Z"
