@@ -1,15 +1,15 @@
 name: Raid Schedules
 folder_name: RaidSchedules
 author: Koala
-version: 1.0.0
+version: 1.0.1
 description: Easy to see window that shows all upcoming world bosses/events as well as showing some of the conflict changing zones and their current zone level like garden, cinderstone and ynystere
 category: Quality of Life
 github:
     repo: Koalazau/ArcheRageAddons
     branch: main
-    commit: 5628dd6217bfe31323084c9d50add73d0e9aec32
+    commit: a3b37ecc1c60f6c831e72dfa1dcc74ddb20d35ee
     path: RaidSchedules
 has_dangerous_files: false
 submitter_discord: "Koala"
 submitter_github: "Koalazau"
-submitted_at: "2026-05-04T11:20:39.507Z"
+submitted_at: "2026-05-05T10:18:09.228Z"
