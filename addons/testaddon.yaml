@@ -1,15 +1,15 @@
 name: Testaddon
 folder_name: Testaddon
 author: Koala
-version: 1.0.0
+version: 1.0.1
 category: Other
 github:
     repo: Koalazau/powerranger
     branch: main
-    commit: 95a1b0db9358bea2c96fd211c20f7c32952b59aa
+    commit: c2a58ece89c80d85c945c9bd449e4575b5cc0ea1
 has_dangerous_files: true
 dangerous_files:
   - "testfile.bat"
 submitter_discord: "Koala"
 submitter_github: "Koalazau"
-submitted_at: "2026-05-06T04:19:24.667Z"
+submitted_at: "2026-05-06T04:21:48.265Z"
