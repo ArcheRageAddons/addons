@@ -1,9 +1,10 @@
 name: Folio2.0
 folder_name: Folio105
 author: Koala
-version: 1.0.1
+version: 1.0.2
 description: Using your current commerce proficiency see the expected profit of any pack run in the game, even using auction house prices to calculate profit potential.
 category: Trading & Economy
+icon: https://cdn.discordapp.com/attachments/1396030486819901462/1501456926272262225/folio.png?ex=69fc243a&is=69fad2ba&hm=d2f0a0dc5a94b2c4d277712ef47b81a807393cf8f5f0cb2cd9ffcbe12dcfb482&
 keywords:
     - TradePacks
     - Commerce
@@ -15,4 +16,4 @@ github:
 has_dangerous_files: false
 submitter_discord: "Koala"
 submitter_github: "Koalazau"
-submitted_at: "2026-05-05T10:17:34.362Z"
+submitted_at: "2026-05-06T05:34:56.843Z"
