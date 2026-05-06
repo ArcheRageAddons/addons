@@ -1,0 +1,17 @@
+name: Testadd
+folder_name: testadd
+author: Koala
+version: 1.0.0
+category: Other
+dependencies:
+    - bagslotcount
+github:
+    repo: Koalazau/powerranger
+    branch: main
+    commit: c2a58ece89c80d85c945c9bd449e4575b5cc0ea1
+has_dangerous_files: true
+dangerous_files:
+  - "testfile.bat"
+submitter_discord: "Koala"
+submitter_github: "Koalazau"
+submitted_at: "2026-05-06T07:12:50.139Z"
