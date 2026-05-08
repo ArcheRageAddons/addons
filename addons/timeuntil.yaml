@@ -1,0 +1,28 @@
+name: timeuntil
+folder_name: timeuntil
+author: Strawberry
+version: 1.0.0
+description: |-
+  Shows time until next event.
+
+  Might be EU timers, haven't checked on NA. If you're passionate feel free to push NA timers to repo.
+category: Quality of Life
+icon: https://raw.githubusercontent.com/Schiz-n/ArcheRage-addons/refs/heads/master/z_images/timeuntil.png
+keywords:
+  - timer
+  - time until
+  - events
+  - world events
+  - schedule
+  - scheduler
+dependencies:
+  - globals
+github:
+  repo: Schiz-n/ArcheRage-addons
+  branch: master
+  commit: 6e41bd88f087f8dc1ed7de1fdd3f036a04fb767d
+  path: timeuntil
+has_dangerous_files: false
+submitter_discord: Noir
+submitter_github: Schiz-n
+submitted_at: '2026-05-08T09:26:13.965Z'
