@@ -1,0 +1,21 @@
+name: magiccircle
+folder_name: magiccircle
+author: Noir
+version: 1.0.0
+description: Tracks distance to your magic circle.
+category: Combat
+icon: https://raw.githubusercontent.com/Strawberry-devs/ArcheRage-addons/refs/heads/master/z_images/magiccircle.png
+keywords:
+  - magic circle
+  - magiccircle
+dependencies:
+  - globals
+github:
+  repo: Schiz-n/ArcheRage-addons
+  branch: master
+  commit: 9b3000c8862b1f17f945bd668b3f790c016b77b1
+  path: magiccircle
+has_dangerous_files: false
+submitter_discord: Noir
+submitter_github: Strawberry-devs
+submitted_at: '2026-05-08T10:07:32.098Z'
