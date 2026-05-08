@@ -1,0 +1,21 @@
+name: luaerrorprinter
+folder_name: luaerrorprinter
+author: Strawberry
+version: 1.0.0
+description: Prints lua errors from archerage.log directly to the game chat.
+category: Utility
+icon: https://raw.githubusercontent.com/Strawberry-devs/ArcheRage-addons/refs/heads/master/z_images/luaerrorprinter.png
+keywords:
+  - lua error printer
+  - lua
+dependencies:
+  - globals
+github:
+  repo: Schiz-n/ArcheRage-addons
+  branch: master
+  commit: 9b3000c8862b1f17f945bd668b3f790c016b77b1
+  path: luaerrorprinter
+has_dangerous_files: false
+submitter_discord: Noir
+submitter_github: Strawberry-devs
+submitted_at: '2026-05-08T10:06:43.869Z'
