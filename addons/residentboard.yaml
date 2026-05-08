@@ -1,0 +1,15 @@
+name: Resident Board
+folder_name: residentboard
+author: Nov
+version: 1.0.0
+description: Shows all zone demands when the player enters Nuia, Haranya, or Auroria and keeps track of quest progress.
+category: Quality of Life
+icon: https://i.imgur.com/o5i3PVA.png
+github:
+  repo: Noviern/residentboard
+  branch: master
+  commit: 0388a2bb7bc887e0c20fc50f73df3263ff5be1f0
+has_dangerous_files: false
+submitter_discord: Nov
+submitter_github: Noviern
+submitted_at: '2026-05-08T16:42:52.999Z'
