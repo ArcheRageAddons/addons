@@ -1,0 +1,25 @@
+name: cfgreloader
+folder_name: reloadcfg
+author: Strawberry
+version: 1.0.0
+description: >-
+  Reloads your configuration from system.cfg on world enter so you can relog / swap characters without losing your
+  changes.
+category: Quality of Life
+icon: https://raw.githubusercontent.com/Schiz-n/ArcheRage-addons/refs/heads/master/z_images/cfgreloader.png
+keywords:
+  - system.cfg
+  - system
+  - configuration
+  - config
+dependencies:
+  - globals
+github:
+  repo: Schiz-n/ArcheRage-addons
+  branch: master
+  commit: 6e41bd88f087f8dc1ed7de1fdd3f036a04fb767d
+  path: reloadcfg
+has_dangerous_files: false
+submitter_discord: Noir
+submitter_github: Schiz-n
+submitted_at: '2026-05-08T09:19:06.406Z'
