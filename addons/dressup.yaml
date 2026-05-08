@@ -1,0 +1,24 @@
+name: dressup
+folder_name: dressup
+author: Strawberry
+version: 1.0.0
+description: >-
+  Dressup addon, lets you pick and choose which clothing to display on your character as well as play animations with
+  it.
+category: Other
+icon: https://raw.githubusercontent.com/Schiz-n/ArcheRage-addons/refs/heads/master/z_images/dressup.png
+keywords:
+  - dressup
+  - dress up
+  - equipment tryout
+dependencies:
+  - globals
+github:
+  repo: Schiz-n/ArcheRage-addons
+  branch: master
+  commit: 6e41bd88f087f8dc1ed7de1fdd3f036a04fb767d
+  path: dressup
+has_dangerous_files: false
+submitter_discord: Noir
+submitter_github: Schiz-n
+submitted_at: '2026-05-08T09:20:48.534Z'
