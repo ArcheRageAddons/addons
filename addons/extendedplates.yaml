@@ -1,0 +1,35 @@
+name: extendedplates
+folder_name: extendedplates
+author: Strawberry
+version: 1.0.0
+description: >-
+  Very feature-heavy embellishment of user nameplates. Buffs, debuffs, distance, class (name and icon), mini castbar.
+  Also has special handlers for defiance cooldown and hidden buffs. 
+
+
+  Also lets you show your equipped items, draw a line to your target/tracktarget, show who your tracktarget is targeting
+  (for kraken/bd aggro), distance to tracktarget.
+category: Combat
+icon: https://raw.githubusercontent.com/Schiz-n/ArcheRage-addons/refs/heads/master/z_images/extendedplates.png
+keywords:
+  - track target
+  - tracktarget
+  - buffs
+  - debuffs
+  - tracker
+  - buff tracker
+  - debuff tracker
+  - nameplates
+  - extended plates
+  - extended nameplates
+dependencies:
+  - globals
+github:
+  repo: Schiz-n/ArcheRage-addons
+  branch: master
+  commit: 6e41bd88f087f8dc1ed7de1fdd3f036a04fb767d
+  path: extendedplates
+has_dangerous_files: false
+submitter_discord: Noir
+submitter_github: Schiz-n
+submitted_at: '2026-05-08T09:23:34.106Z'
