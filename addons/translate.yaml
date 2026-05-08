@@ -1,0 +1,33 @@
+name: translate
+folder_name: translate
+author: Strawberry
+version: 1.0.0
+description: >-
+  Translates a lot of languages to other languages automatically in game. Run ToX.bat while running the game for it to
+  work.
+category: Chat & Communication
+icon: https://raw.githubusercontent.com/Schiz-n/ArcheRage-addons/refs/heads/master/z_images/translate.png
+keywords:
+  - translate
+  - translation
+  - translator
+  - chat
+dependencies:
+  - globals
+github:
+  repo: Schiz-n/ArcheRage-addons
+  branch: master
+  commit: a6aac6291d028c40cc60a330c2c5b975cd7af335
+  path: translate
+has_dangerous_files: true
+dangerous_files:
+  - translate/ToChinese.bat
+  - translate/ToEnglish.bat
+  - translate/ToEnglishOnlyChinese.bat
+  - translate/ToGerman.bat
+  - translate/ToKorean.bat
+  - translate/ToRussian.bat
+  - translate/translatetofilep2.ps1
+submitter_discord: Noir
+submitter_github: Schiz-n
+submitted_at: '2026-05-08T08:53:04.720Z'
