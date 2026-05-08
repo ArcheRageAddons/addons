@@ -1,0 +1,21 @@
+name: bigcastbars
+folder_name: bigcastbars
+author: Strawberry
+version: 1.0.0
+description: Gives you a big cast bar instead of the small one.
+category: UI Enhancement
+icon: https://raw.githubusercontent.com/Strawberry-devs/ArcheRage-addons/refs/heads/master/z_images/bigcastbar.png
+keywords:
+  - cast bar
+  - castbar
+dependencies:
+  - globals
+github:
+  repo: Schiz-n/ArcheRage-addons
+  branch: master
+  commit: 9b3000c8862b1f17f945bd668b3f790c016b77b1
+  path: bigcastbars
+has_dangerous_files: false
+submitter_discord: Noir
+submitter_github: Strawberry-devs
+submitted_at: '2026-05-08T10:02:01.480Z'
