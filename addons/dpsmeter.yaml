@@ -1,0 +1,25 @@
+name: dpsmeter
+folder_name: dpsmeter
+author: Strawberry
+version: 1.0.0
+description: >-
+  DPS meter with a bunch of breakdowns, damage done, damage taken, healing done, healing taken, breakdown per spell,
+  breakdown per player.
+category: Combat
+icon: https://raw.githubusercontent.com/Strawberry-devs/ArcheRage-addons/refs/heads/master/z_images/dpsmeter.png
+keywords:
+  - dps
+  - combat
+  - meter
+  - dpsmeter
+dependencies:
+  - globals
+github:
+  repo: Schiz-n/ArcheRage-addons
+  branch: master
+  commit: 9b3000c8862b1f17f945bd668b3f790c016b77b1
+  path: dpsmeter
+has_dangerous_files: false
+submitter_discord: Noir
+submitter_github: Strawberry-devs
+submitted_at: '2026-05-08T10:03:22.191Z'
