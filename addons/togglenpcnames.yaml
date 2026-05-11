@@ -1,0 +1,13 @@
+name: Toggle NPC Names
+folder_name: togglenpcnames
+author: Nov
+version: 1.0.0
+category: Quality of Life
+github:
+  repo: Noviern/togglenpcnames
+  branch: master
+  commit: 1b25a18d5e4ed4ca2e76ab8453b154674c5e8129
+has_dangerous_files: false
+submitter_discord: Nov
+submitter_github: Noviern
+submitted_at: '2026-05-11T23:29:29.772Z'
