@@ -1,0 +1,13 @@
+name: Toggle Safe Portals
+folder_name: togglesafeportals
+author: Nov
+version: 1.0.0
+category: Quality of Life
+github:
+  repo: Noviern/togglesafeportals
+  branch: master
+  commit: 3e2ea9ceb2b4df83e01a660b141c3d74eefddebb
+has_dangerous_files: false
+submitter_discord: Nov
+submitter_github: Noviern
+submitted_at: '2026-05-11T23:30:13.575Z'
