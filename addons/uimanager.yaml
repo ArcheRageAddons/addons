@@ -1,0 +1,13 @@
+name: UI Manager
+folder_name: uimanager
+author: Nov
+version: 1.0.0
+category: Quality of Life
+github:
+  repo: Noviern/uimanager
+  branch: master
+  commit: 132e15f13f5ed78a2ca9a01a66d7a0e430b9b50f
+has_dangerous_files: false
+submitter_discord: Nov
+submitter_github: Noviern
+submitted_at: '2026-05-11T23:28:02.217Z'
