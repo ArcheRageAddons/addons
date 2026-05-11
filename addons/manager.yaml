@@ -1,0 +1,13 @@
+name: Addon Manager
+folder_name: manager
+author: Nov
+version: 1.0.0
+category: Utility
+github:
+  repo: Noviern/manager
+  branch: master
+  commit: e92b5fe551481b187b0b6a9e638893ed20ccfee0
+has_dangerous_files: false
+submitter_discord: Nov
+submitter_github: Noviern
+submitted_at: '2026-05-11T23:38:18.673Z'
