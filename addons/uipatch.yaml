@@ -6,6 +6,7 @@ category: Other
 icon: https://raw.githubusercontent.com/Koalazau/ArcheRageAddonsIcons/main/darkmode.png
 dependencies:
   - darkmodecore
+overlay_of: darkmodecore
 github:
   repo: Koalazau/ArcheRageAddons
   branch: main
