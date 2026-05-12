@@ -1,0 +1,13 @@
+name: Timers
+folder_name: timers
+author: Nov
+version: 1.0.0
+category: Quality of Life
+github:
+  repo: Noviern/timers
+  branch: master
+  commit: f914043c89881642f7f78c573e9496634c5abb7e
+has_dangerous_files: false
+submitter_discord: Nov
+submitter_github: Noviern
+submitted_at: '2026-05-11T23:32:12.253Z'
