@@ -1,19 +1,22 @@
 name: Folio2.0
 folder_name: Folio105
 author: Koala
-version: 1.0.2
-description: Using your current commerce proficiency see the expected profit of any pack run in the game, even using auction house prices to calculate profit potential.
+version: 1.0.3
+description: >-
+  Using your current commerce proficiency see the expected profit of any pack run in the game, even using auction house
+  prices to calculate profit potential.
 category: Trading & Economy
-icon: https://cdn.discordapp.com/attachments/1396030486819901462/1501456926272262225/folio.png?ex=69fc243a&is=69fad2ba&hm=d2f0a0dc5a94b2c4d277712ef47b81a807393cf8f5f0cb2cd9ffcbe12dcfb482&
+icon: >-
+  https://cdn.discordapp.com/attachments/1396030486819901462/1501456926272262225/folio.png?ex=69fc243a&is=69fad2ba&hm=d2f0a0dc5a94b2c4d277712ef47b81a807393cf8f5f0cb2cd9ffcbe12dcfb482&
 keywords:
-    - TradePacks
-    - Commerce
+  - TradePacks
+  - Commerce
 github:
-    repo: Koalazau/ArcheRageAddons
-    branch: main
-    commit: a3b37ecc1c60f6c831e72dfa1dcc74ddb20d35ee
-    path: Folio105
+  repo: Koalazau/ArcheRageAddons
+  branch: main
+  commit: c9c32a2f629a02b3121fff1e8bc770e76b4abf3c
+  path: Folio105
 has_dangerous_files: false
-submitter_discord: "Koala"
-submitter_github: "Koalazau"
-submitted_at: "2026-05-06T05:34:56.843Z"
+submitter_discord: Koala
+submitter_github: Koalazau
+submitted_at: '2026-05-13T06:19:37.823Z'
