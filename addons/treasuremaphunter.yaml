@@ -1,0 +1,20 @@
+name: Compass
+folder_name: TreasureMaphunter
+author: Koala
+version: 1.0.0
+category: Other
+keywords:
+  - Search
+  - Compass
+  - Exploration
+  - Map
+  - World
+github:
+  repo: Koalazau/ArcheRageAddons
+  branch: main
+  commit: c9c32a2f629a02b3121fff1e8bc770e76b4abf3c
+  path: TreasureMapHunter
+has_dangerous_files: false
+submitter_discord: Koala
+submitter_github: Koalazau
+submitted_at: '2026-05-13T06:24:19.716Z'
