@@ -1,7 +1,7 @@
 name: DarkMode Patcher
 folder_name: uipatch
 author: Koala
-version: 1.0.4
+version: 1.0.5
 category: Other
 icon: https://raw.githubusercontent.com/Koalazau/ArcheRageAddonsIcons/main/darkmode.png
 dependencies:
@@ -10,9 +10,9 @@ overlay_of: darkmodecore
 github:
   repo: Koalazau/ArcheRageAddons
   branch: main
-  commit: 784b9f65fbfa2c63dd50d43d938ebdb9016c837d
+  commit: 4e8819519b9f11cd25dd1261497be07a14d7c7c7
   path: darkmodeupdate
 has_dangerous_files: false
 submitter_discord: Koala
 submitter_github: Koalazau
-submitted_at: '2026-05-12T23:58:51.430Z'
+submitted_at: '2026-05-13T00:32:38.459Z'
