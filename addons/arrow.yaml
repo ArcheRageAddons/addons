@@ -1,14 +1,14 @@
 name: Arrow
 folder_name: Arrow
 author: Koala
-version: 1.0.0
+version: 1.0.1
 category: Other
 github:
   repo: Koalazau/ArcheRageAddons
   branch: main
-  commit: c9c32a2f629a02b3121fff1e8bc770e76b4abf3c
+  commit: 6fd0407d7feb91383170be12bab24a9c4cb56961
   path: Arrow
 has_dangerous_files: false
 submitter_discord: Koala
 submitter_github: Koalazau
-submitted_at: '2026-05-13T06:22:44.432Z'
+submitted_at: '2026-05-13T06:28:04.810Z'
