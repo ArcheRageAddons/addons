@@ -1,0 +1,13 @@
+name: X2
+folder_name: x2
+author: Nov
+version: 1.0.0
+category: Dev Tools
+github:
+  repo: Noviern/x2
+  branch: master
+  commit: 96ca1b5d3a6720d04f29644e20bbeddf843a70cf
+has_dangerous_files: false
+submitter_discord: Nov
+submitter_github: Noviern
+submitted_at: '2026-05-16T03:00:51.470Z'
