@@ -1,10 +1,10 @@
 name: titleswap
 folder_name: titleswap
 author: Strawberry
-version: 1.0.0
+version: 1.0.1
 description: Lets you swap titles at the click of a button.
 category: Quality of Life
-icon: https://raw.githubusercontent.com/Schiz-n/ArcheRage-addons/refs/heads/master/z_images/titleswap.png
+icon: https://raw.githubusercontent.com/Strawberry-devs/ArcheRage-addons/refs/heads/master/z_images/titleswap.png
 keywords:
   - titles
   - title
@@ -12,11 +12,11 @@ keywords:
 dependencies:
   - globals
 github:
-  repo: Schiz-n/ArcheRage-addons
+  repo: Strawberry-devs/ArcheRage-addons
   branch: master
-  commit: 6e41bd88f087f8dc1ed7de1fdd3f036a04fb767d
+  commit: b3739180e406c7f6601ea37dc00eda132828bba2
   path: titleswap
 has_dangerous_files: false
 submitter_discord: Noir
-submitter_github: Schiz-n
-submitted_at: '2026-05-08T09:28:21.983Z'
+submitter_github: Strawberry-devs
+submitted_at: '2026-05-20T12:47:43.865Z'
