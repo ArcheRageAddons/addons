@@ -1,10 +1,10 @@
 name: shinysac
 folder_name: shinysac
 author: Strawberry
-version: 1.0.0
+version: 1.0.1
 description: Checks if anyone is your raid is dancing, shows their location and duration of their dance.
 category: Combat
-icon: https://raw.githubusercontent.com/Schiz-n/ArcheRage-addons/refs/heads/master/z_images/shinysac.png
+icon: https://raw.githubusercontent.com/Strawberry-devs/ArcheRage-addons/refs/heads/master/z_images/shinysac.png
 keywords:
   - dancer
   - dance of sacrifice
@@ -13,11 +13,11 @@ keywords:
 dependencies:
   - globals
 github:
-  repo: Schiz-n/ArcheRage-addons
+  repo: Strawberry-devs/ArcheRage-addons
   branch: master
-  commit: 6e41bd88f087f8dc1ed7de1fdd3f036a04fb767d
+  commit: b3739180e406c7f6601ea37dc00eda132828bba2
   path: shinysac
 has_dangerous_files: false
 submitter_discord: Noir
-submitter_github: Schiz-n
-submitted_at: '2026-05-08T09:24:46.670Z'
+submitter_github: Strawberry-devs
+submitted_at: '2026-05-20T12:48:23.168Z'
