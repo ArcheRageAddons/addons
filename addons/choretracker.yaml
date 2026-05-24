@@ -1,0 +1,27 @@
+name: choretracker
+folder_name: choretracker
+author: Strawberry
+version: 1.0.0
+description: |-
+  tracks chores
+
+  see readme
+category: Quality of Life
+icon: https://raw.githubusercontent.com/Strawberry-devs/ArcheRage-addons/refs/heads/master/z_images/choretracker.PNG
+keywords:
+  - quest tracker
+  - quests
+  - questing
+  - chores
+  - chore tracker
+dependencies:
+  - globals
+github:
+  repo: Strawberry-devs/ArcheRage-addons
+  branch: master
+  commit: ecd824cd494b68b460ca7f9e31e91578b81e6ba9
+  path: choretracker
+has_dangerous_files: false
+submitter_discord: Noir
+submitter_github: Strawberry-devs
+submitted_at: '2026-05-24T17:47:06.160Z'
