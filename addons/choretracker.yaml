@@ -1,7 +1,7 @@
 name: choretracker
 folder_name: choretracker
 author: Strawberry
-version: 1.0.0
+version: 1.0.1
 description: |-
   tracks chores
 
@@ -19,9 +19,9 @@ dependencies:
 github:
   repo: Strawberry-devs/ArcheRage-addons
   branch: master
-  commit: ecd824cd494b68b460ca7f9e31e91578b81e6ba9
+  commit: 8645f37eae7882aea6ee80bf99ae5e0be633d7f2
   path: choretracker
 has_dangerous_files: false
 submitter_discord: Noir
 submitter_github: Strawberry-devs
-submitted_at: '2026-05-24T17:47:06.160Z'
+submitted_at: '2026-05-24T20:35:01.407Z'
