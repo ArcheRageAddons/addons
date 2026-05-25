@@ -1,0 +1,19 @@
+name: Raid Frame
+folder_name: raidframe
+author: blank0043
+version: '0.9'
+category: Other
+icon: https://raw.githubusercontent.com/blank0443/archerage-addons/main/img/raid_frame/block_mode.png
+keywords:
+  - raid window
+dependencies:
+  - globals
+github:
+  repo: blank0443/archerage-addons
+  branch: main
+  commit: fd7649ac6153abe6e50a0623516f85ad6df0067e
+  path: raidframe
+has_dangerous_files: false
+submitter_discord: blank0043
+submitter_github: blank0443
+submitted_at: '2026-05-25T16:19:24.707Z'
