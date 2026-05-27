@@ -1,7 +1,8 @@
 name: Auction Favorites
 folder_name: auctionfavs
 author: Koala
-version: 1.0.7
+version: 1.1.0
+description: Easy to use Auction house favorite Items
 category: Other
 icon: https://raw.githubusercontent.com/Koalazau/ArcheRageAddonsIcons/main/auctionfav.png
 keywords:
@@ -21,4 +22,4 @@ github:
 has_dangerous_files: false
 submitter_discord: Koala
 submitter_github: Koalazau
-submitted_at: '2026-05-27T07:20:35.056Z'
+submitted_at: '2026-05-27T10:07:43.765Z'
