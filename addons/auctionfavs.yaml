@@ -1,9 +1,9 @@
 name: Auction Favorites
 folder_name: auctionfavs
 author: Koala
-version: 1.0.2
+version: 1.0.3
 category: Other
-icon: https://raw.githubusercontent.com/Koalazau/ArcheRageAddonsIcons/main/AuctionFavorites.png
+icon: https://raw.githubusercontent.com/koalazau/ArcheRageAddonsIcons/refs/heads/main/auctionfav.png
 keywords:
   - Gold
   - Auction
@@ -21,4 +21,4 @@ github:
 has_dangerous_files: false
 submitter_discord: Koala
 submitter_github: Koalazau
-submitted_at: '2026-05-27T06:33:49.281Z'
+submitted_at: '2026-05-27T06:36:11.852Z'
