@@ -3,6 +3,7 @@ folder_name: autostore
 author: Nov
 version: 1.0.1
 category: Quality of Life
+icon: https://i.imgur.com/BhCu4R0.png
 github:
   repo: Noviern/autostore
   branch: master
@@ -10,4 +11,4 @@ github:
 has_dangerous_files: false
 submitter_discord: Nov
 submitter_github: Noviern
-submitted_at: '2026-05-27T22:14:49.400Z'
+submitted_at: '2026-05-27T22:26:06.135Z'
