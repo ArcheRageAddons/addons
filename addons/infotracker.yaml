@@ -1,7 +1,7 @@
 name: Infotracker
 folder_name: infotracker
 author: Nevermore
-version: 2.2.0
+version: 2.2.1
 description: >-
   InfoTracker is an all-in-one ArcheRage addon that provides character status monitoring, quest tracking, net income
   statistics, dungeon team creation, a floating reminder widget, and chat command controls with whitelist permissions.
@@ -14,9 +14,9 @@ keywords:
 github:
   repo: BrandonShi03/ArcheRage-Addon
   branch: main
-  commit: 7a73abb7c72174bff495e4caabb7be369cf67aa5
+  commit: 26bb344bb60d5692d1449e5206a70006648392ad
   path: infotracker
 has_dangerous_files: false
 submitter_discord: Nevermore
 submitter_github: BrandonShi03
-submitted_at: '2026-05-26T01:41:53.381Z'
+submitted_at: '2026-05-28T15:31:29.232Z'
