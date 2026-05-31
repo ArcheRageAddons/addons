@@ -1,19 +1,21 @@
 name: Grind Tracker
 folder_name: GrindTracker
 author: Loctus
-version: 1.1.1
+version: 1.1.2
 description: >-
   Track mob kills, XP, Gold, Items gathered while farming with a built in timer to check average per hour. Made with
   Claude.
 category: Quality of Life
-icon: >-
-  https://private-user-images.githubusercontent.com/12513721/600543612-75969585-0018-49e2-9fd3-ba714f61f925.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODAxNzc1MTQsIm5iZiI6MTc4MDE3NzIxNCwicGF0aCI6Ii8xMjUxMzcyMS82MDA1NDM2MTItNzU5Njk1ODUtMDAxOC00OWUyLTlmZDMtYmE3MTRmNjFmOTI1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA1MzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNTMwVDIxNDAxNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTljMWQxZTgzYWMxMzhiOGQ2NGU1YjU1ZjQ4ZGM0MTQ0NmEwZDdiNjQ2ODk5YmY2ZjAyYzU5OWJhNGYwM2Y0NjgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.2ZKHPtx-IeEPeR89knZrHd_GD0---uSf37f0wqbsds0
+icon: https://github.com/L0cTus/ArcheRage-Addons/blob/main/GrindTracker.png?raw=true
+keywords:
+  - tracker
+  - grind
 github:
   repo: L0cTus/ArcheRage-Addons
   branch: main
-  commit: 556343f92e4237db04220fca017b5291cf6fc895
+  commit: 82c35727c4005608c7b38cac89e2fe11c502d508
   path: GrindTracker
 has_dangerous_files: false
 submitter_discord: Loctus
 submitter_github: L0cTus
-submitted_at: '2026-05-30T21:46:20.742Z'
+submitted_at: '2026-05-31T09:13:13.466Z'
