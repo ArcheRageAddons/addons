@@ -1,7 +1,7 @@
 name: autorole (EU+NA)
 folder_name: autorole
 author: Strawberry
-version: 1.0.2
+version: 1.0.3
 description: Automatically picks role.
 category: Quality of Life
 icon: https://raw.githubusercontent.com/Strawberry-devs/ArcheRage-addons/refs/heads/master/z_images/autorole.png
@@ -12,9 +12,9 @@ dependencies:
 github:
   repo: Strawberry-devs/ArcheRage-addons
   branch: master
-  commit: fd0b3e80489b0363572bbe16459abd4b1883a58f
+  commit: d9e1c60fd6db11d6e77fe9534f93283e2df38e19
   path: autorole
 has_dangerous_files: false
 submitter_discord: Noir
 submitter_github: Strawberry-devs
-submitted_at: '2026-05-24T20:24:18.670Z'
+submitted_at: '2026-05-31T23:30:30.114Z'
