@@ -1,7 +1,7 @@
 name: extendedplates
 folder_name: extendedplates
 author: Strawberry
-version: 1.0.5
+version: 1.0.6
 description: >-
   Very feature-heavy embellishment of user nameplates. Buffs, debuffs, distance, class (name and icon), mini castbar.
   Also has special handlers for defiance cooldown and hidden buffs. 
@@ -27,9 +27,9 @@ dependencies:
 github:
   repo: Strawberry-devs/ArcheRage-addons
   branch: master
-  commit: b53fad53036e40192c1ad9a7e327a8747adb582a
+  commit: 81a23feaa15af65457bd0aae3aac64aa8ae7a662
   path: extendedplates
 has_dangerous_files: false
 submitter_discord: Noir
 submitter_github: Strawberry-devs
-submitted_at: '2026-05-29T13:50:30.230Z'
+submitted_at: '2026-06-03T14:41:00.085Z'
