@@ -1,0 +1,24 @@
+name: easypull
+folder_name: easypull
+author: Noir
+version: 1.0.0
+description: check readme
+category: Combat
+icon: https://raw.githubusercontent.com/Strawberry-devs/ArcheRage-addons/refs/heads/master/z_images/easypull.png
+keywords:
+  - easy pull
+  - easypull
+  - circle draw
+  - draw
+  - circle
+dependencies:
+  - globals
+github:
+  repo: Strawberry-devs/ArcheRage-addons
+  branch: master
+  commit: 7deaa92b85fc047af4555a6792dadb56920fb2f9
+  path: easypull
+has_dangerous_files: false
+submitter_discord: Noir
+submitter_github: Strawberry-devs
+submitted_at: '2026-06-04T21:25:30.115Z'
