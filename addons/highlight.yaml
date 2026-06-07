@@ -1,7 +1,7 @@
 name: highlight
 folder_name: highlight
 author: Strawberry
-version: 1.0.2
+version: 1.0.3
 description: Highlights your current target with adjustable settings (brighter, less bright, etc).
 category: Other
 icon: https://raw.githubusercontent.com/Strawberry-devs/ArcheRage-addons/refs/heads/master/z_images/highlighter.png
@@ -14,9 +14,9 @@ dependencies:
 github:
   repo: Strawberry-devs/ArcheRage-addons
   branch: master
-  commit: b3739180e406c7f6601ea37dc00eda132828bba2
+  commit: 6b883fda9c74376bb43f32aa74a55386d118b989
   path: highlight
 has_dangerous_files: false
 submitter_discord: Noir
 submitter_github: Strawberry-devs
-submitted_at: '2026-05-20T12:46:17.397Z'
+submitted_at: '2026-06-07T16:48:40.977Z'
