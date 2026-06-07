@@ -1,7 +1,7 @@
 name: Grind Tracker
 folder_name: GrindTracker
 author: Loctus
-version: 1.2.1
+version: 1.2.2
 description: >-
   Track mob kills, XP, Gold, Items gathered while farming with a built in timer to check average per hour. Made with
   Claude.
@@ -17,9 +17,9 @@ keywords:
 github:
   repo: L0cTus/ArcheRage-Addons
   branch: main
-  commit: 6522e24cfe3c1e39227a69dcd2bd60e9eeede93f
+  commit: 8ff9783e069fee264260b6aad66b918514b5ce19
   path: GrindTracker
 has_dangerous_files: false
 submitter_discord: Loctus
 submitter_github: L0cTus
-submitted_at: '2026-06-05T20:40:14.756Z'
+submitted_at: '2026-06-07T17:27:34.428Z'
