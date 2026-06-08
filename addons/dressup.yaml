@@ -1,7 +1,7 @@
 name: dressup
 folder_name: dressup
 author: Strawberry
-version: 1.0.2
+version: 1.0.3
 description: >-
   Dressup addon, lets you pick and choose which clothing to display on your character as well as play animations with
   it.
@@ -16,9 +16,9 @@ dependencies:
 github:
   repo: Strawberry-devs/ArcheRage-addons
   branch: master
-  commit: 700edd04b327341cb89ab7e20f861a4c6d979142
+  commit: 0b5f5d8e787da940da97a484209f930bfd3b6f9b
   path: dressup
 has_dangerous_files: false
 submitter_discord: Noir
 submitter_github: Strawberry-devs
-submitted_at: '2026-05-22T19:46:00.143Z'
+submitted_at: '2026-06-08T19:51:11.502Z'
