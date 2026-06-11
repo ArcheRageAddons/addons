@@ -1,7 +1,7 @@
 name: omnicraft
 folder_name: omnicraft
 author: Strawberry
-version: 1.0.4
+version: 1.0.5
 description: check readme
 category: Crafting & Professions
 icon: https://raw.githubusercontent.com/Strawberry-devs/ArcheRage-addons/refs/heads/master/z_images/omnicraft2.png
@@ -15,9 +15,9 @@ dependencies:
 github:
   repo: Strawberry-devs/ArcheRage-addons
   branch: master
-  commit: c78a76f94eb420b6de78efb5f4ba753ed871d4e8
+  commit: dbb91965f1fc5f1255596138e202e2cd381da4b2
   path: omnicraft
 has_dangerous_files: false
 submitter_discord: Noir
 submitter_github: Strawberry-devs
-submitted_at: '2026-06-10T23:47:11.681Z'
+submitted_at: '2026-06-11T16:10:50.526Z'
