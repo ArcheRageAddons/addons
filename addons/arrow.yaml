@@ -1,4 +1,4 @@
-name: Arrow
+name: Arrows
 folder_name: Arrow
 author: Koala
 version: 1.0.1
@@ -8,7 +8,7 @@ github:
   branch: main
   commit: 6fd0407d7feb91383170be12bab24a9c4cb56961
   path: Arrow
-has_dangerous_files: false
+has_dangerous_files: 'false'
 submitter_discord: Koala
 submitter_github: Koalazau
 submitted_at: '2026-05-13T06:28:04.810Z'
