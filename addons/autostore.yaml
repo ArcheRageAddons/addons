@@ -1,14 +1,14 @@
 name: Auto Store
 folder_name: autostore
 author: Nov
-version: 1.0.3
+version: 1.0.4
 category: Quality of Life
-icon: https://i.imgur.com/BhCu4R0.png
+icon: https://i.imgur.com/mYsZZfA.png
 github:
   repo: Noviern/autostore
   branch: master
-  commit: 54170298124455d4834dd485c942479faf9e545b
+  commit: 7dd8db7536d8093917d26d4a2a35b59ad6f0edea
 has_dangerous_files: false
 submitter_discord: Nov
 submitter_github: Noviern
-submitted_at: '2026-06-06T21:43:36.619Z'
+submitted_at: '2026-06-12T20:26:40.489Z'
