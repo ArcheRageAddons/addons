@@ -1,7 +1,7 @@
 name: globals
 folder_name: globals
 author: Strawberry
-version: 1.0.9
+version: 1.0.10
 description: Global functions required for every addon I make.
 category: Utility
 icon: https://raw.githubusercontent.com/Strawberry-devs/ArcheRage-addons/refs/heads/master/z_images/globals.png
@@ -10,9 +10,9 @@ keywords:
 github:
   repo: Strawberry-devs/ArcheRage-addons
   branch: master
-  commit: 291b293f6f97146ac567c633aff11f0a963a9b7b
+  commit: 8ac9940255e222b1f4188ad31c79556a9f02b9e9
   path: globals
 has_dangerous_files: false
 submitter_discord: Noir
 submitter_github: Strawberry-devs
-submitted_at: '2026-06-12T13:17:33.838Z'
+submitted_at: '2026-06-12T21:47:32.111Z'
