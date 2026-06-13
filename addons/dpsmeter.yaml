@@ -1,7 +1,7 @@
 name: dpsmeter
 folder_name: dpsmeter
 author: Strawberry
-version: 1.0.4
+version: 1.0.5
 description: >-
   DPS meter with a bunch of breakdowns, damage done, damage taken, healing done, healing taken, breakdown per spell,
   breakdown per player.
@@ -17,9 +17,9 @@ dependencies:
 github:
   repo: Strawberry-devs/ArcheRage-addons
   branch: master
-  commit: db81133db680c24a3bcdf14b61cbe51355486cd1
+  commit: 9e6aeaea3d635321e97b530ad6bd63cd594aecc4
   path: dpsmeter
 has_dangerous_files: false
 submitter_discord: Noir
 submitter_github: Strawberry-devs
-submitted_at: '2026-06-13T01:56:05.862Z'
+submitted_at: '2026-06-13T23:27:00.086Z'
