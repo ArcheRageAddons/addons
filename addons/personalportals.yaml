@@ -1,7 +1,7 @@
 name: personalportals
 folder_name: personalportals
 author: Strawberry
-version: 1.0.1
+version: 1.0.2
 description: Lets you easily swap between "take anyone's portal" and "only use my portals".
 category: Quality of Life
 icon: https://raw.githubusercontent.com/Strawberry-devs/ArcheRage-addons/refs/heads/master/z_images/personalportals.png
@@ -14,9 +14,9 @@ dependencies:
 github:
   repo: Strawberry-devs/ArcheRage-addons
   branch: master
-  commit: b3739180e406c7f6601ea37dc00eda132828bba2
+  commit: 291b293f6f97146ac567c633aff11f0a963a9b7b
   path: personalportals
 has_dangerous_files: false
 submitter_discord: Noir
 submitter_github: Strawberry-devs
-submitted_at: '2026-05-20T12:47:18.341Z'
+submitted_at: '2026-06-12T21:44:48.301Z'
