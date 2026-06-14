@@ -1,11 +1,11 @@
 name: Oso Pack Service
 folder_name: OPS
 author: MD
-version: 1.1.1
-description: >-
-  OPS records he tradepacks you turn in, calculates the cost and profit and gives you an estimate of you how much you
-  are earning per pack, provides a timer aswell to know how long its going to take to be paid and has a breakdown of the
-  costs when you select a pack.
+version: 1.1.2
+description: |-
+  -Records turned in Packs/Cargo 
+  -Calculates and snapshots Payouts, Profits and cost
+  -Gives an estimate of the profit to be expected from the pending packs/cargo
 category: Trading & Economy
 keywords:
   - Packs
@@ -16,8 +16,8 @@ dependencies:
 github:
   repo: P-Raphael/OSO-TradePack-Ledger
   branch: master
-  commit: 047c7d6cb4c017c346704a2a9ff123e4b56c16eb
+  commit: 3338880db4a6e24857afe7a7ce24e7d5d331506e
 has_dangerous_files: false
 submitter_discord: MD
 submitter_github: P-Raphael
-submitted_at: '2026-06-11T04:24:49.578Z'
+submitted_at: '2026-06-14T04:32:31.476Z'
