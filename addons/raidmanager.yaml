@@ -1,0 +1,29 @@
+name: raidmanager (BETA)
+folder_name: raidmanager
+author: Strawberry
+version: 1.0.0
+description: |-
+  It manages raids. Please send me feedback and tell me what's broken or what features you would like to see.
+
+  I think it's kinda broken rn haven't really tested it tbh. Guess I'll put BETA on it lol.
+
+  Also need to give it a real image lole
+category: Other
+icon: >-
+  https://static.vecteezy.com/system/resources/previews/021/672/887/non_2x/database-drives-line-icon-simple-modern-flat-illustration-for-mobile-app-website-or-desktop-app-on-gray-background-vector.jpg
+keywords:
+  - raid manager
+  - raidmanager
+  - raid
+  - manager
+dependencies:
+  - globals
+github:
+  repo: Strawberry-devs/ArcheRage-addons
+  branch: master
+  commit: d11ba7f30aa6a58a1d66b0ff4c37a8d2989ccb96
+  path: raidmanager
+has_dangerous_files: false
+submitter_discord: Noir
+submitter_github: Strawberry-devs
+submitted_at: '2026-06-14T23:45:35.165Z'
