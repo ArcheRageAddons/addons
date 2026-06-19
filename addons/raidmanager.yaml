@@ -1,7 +1,7 @@
 name: raidmanager (BETA)
 folder_name: raidmanager
 author: Strawberry
-version: 1.0.0
+version: 1.0.1
 description: |-
   It manages raids. Please send me feedback and tell me what's broken or what features you would like to see.
 
@@ -21,9 +21,9 @@ dependencies:
 github:
   repo: Strawberry-devs/ArcheRage-addons
   branch: master
-  commit: d11ba7f30aa6a58a1d66b0ff4c37a8d2989ccb96
+  commit: 54e3696f1dd11eedaf6a7e8a4ec20ac4cc254e0b
   path: raidmanager
 has_dangerous_files: false
 submitter_discord: Noir
 submitter_github: Strawberry-devs
-submitted_at: '2026-06-14T23:45:35.165Z'
+submitted_at: '2026-06-19T14:30:11.110Z'
