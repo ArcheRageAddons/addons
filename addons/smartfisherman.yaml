@@ -1,0 +1,18 @@
+name: SmartFisherman
+folder_name: SmartFisherman
+author: Nevermore
+version: '1.2'
+category: Quality of Life
+keywords:
+  - Sports Fishing
+  - Key rebind
+  - Fish with one click
+github:
+  repo: BrandonShi03/ArcheRage-Addon
+  branch: main
+  commit: 98cf6ecbd825df45ba443b9683eb708671a82221
+  path: SmartFisherman
+has_dangerous_files: false
+submitter_discord: Nevermore
+submitter_github: BrandonShi03
+submitted_at: '2026-06-19T13:50:36.118Z'
