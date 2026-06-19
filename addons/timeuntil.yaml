@@ -1,7 +1,7 @@
 name: timeuntil
 folder_name: timeuntil
 author: Strawberry
-version: 1.0.8
+version: 1.0.9
 description: |-
   Shows time until next event.
 
@@ -20,9 +20,9 @@ dependencies:
 github:
   repo: Strawberry-devs/ArcheRage-addons
   branch: master
-  commit: d4dbc65a3ae76249e36a574af1d2644aca14d33f
+  commit: b55e847f88846a9916b3934193bdf6404047a2f9
   path: timeuntil
 has_dangerous_files: false
 submitter_discord: Noir
 submitter_github: Strawberry-devs
-submitted_at: '2026-06-17T17:19:43.176Z'
+submitted_at: '2026-06-19T21:20:43.364Z'
