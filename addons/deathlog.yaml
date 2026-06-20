@@ -1,0 +1,23 @@
+name: deathlog
+folder_name: deathlog
+author: Strawberry
+version: 1.0.0
+description: see readme
+category: Combat
+icon: https://raw.githubusercontent.com/Strawberry-devs/ArcheRage-addons/refs/heads/master/z_images/deathlog.png
+keywords:
+  - death log
+  - deathlog
+  - log
+  - death
+dependencies:
+  - globals
+github:
+  repo: Strawberry-devs/ArcheRage-addons
+  branch: master
+  commit: 6d439a1f2efade1b5ac8be86ff37447310c0f138
+  path: deathlog
+has_dangerous_files: false
+submitter_discord: Noir
+submitter_github: Strawberry-devs
+submitted_at: '2026-06-20T16:29:00.103Z'
