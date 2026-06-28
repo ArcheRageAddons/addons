@@ -1,0 +1,22 @@
+name: PocketSorter
+folder_name: PocketSorter
+author: Wyatt_LW
+version: '1.5'
+category: Quality of Life
+keywords:
+  - chest
+  - storage
+  - inventory
+  - bag
+  - warehouse
+dependencies:
+  - globals
+github:
+  repo: WyattLW/AR_Addons
+  branch: main
+  commit: 0290971638c6c97a68dc4230d55f8f9c092d146c
+  path: pocketsorter
+has_dangerous_files: false
+submitter_discord: Wyatt
+submitter_github: WyattLW
+submitted_at: '2026-06-28T14:50:46.828Z'
