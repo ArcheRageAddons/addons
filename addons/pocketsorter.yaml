@@ -1,7 +1,8 @@
 name: PocketSorter
 folder_name: PocketSorter
 author: Wyatt_LW
-version: '1.5'
+version: 1.5.1
+description: 1.5.1 Readme cleanup3y
 category: Quality of Life
 keywords:
   - chest
@@ -14,9 +15,9 @@ dependencies:
 github:
   repo: WyattLW/AR_Addons
   branch: main
-  commit: 0290971638c6c97a68dc4230d55f8f9c092d146c
+  commit: 5f77112d38f12ae22adbe872b9ecd100f5d307a2
   path: pocketsorter
 has_dangerous_files: false
 submitter_discord: Wyatt
 submitter_github: WyattLW
-submitted_at: '2026-06-28T14:50:46.828Z'
+submitted_at: '2026-06-28T20:48:59.560Z'
