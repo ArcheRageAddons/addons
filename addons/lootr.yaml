@@ -1,7 +1,7 @@
 name: lootr
 folder_name: lootr
 author: Strawberry
-version: 1.0.0
+version: 1.0.1
 description: see readme
 category: Other
 icon: https://raw.githubusercontent.com/Strawberry-devs/ArcheRage-addons/refs/heads/master/z_images/lootr_nt.png
@@ -15,9 +15,9 @@ dependencies:
 github:
   repo: Strawberry-devs/ArcheRage-addons
   branch: master
-  commit: 606b3e39c0d99ea54aee91c03e23ebe951cd3411
+  commit: 9a8fbbd68b71f896b787e9fc65469652f7b2fcbd
   path: lootr
 has_dangerous_files: false
 submitter_discord: Noir
 submitter_github: Strawberry-devs
-submitted_at: '2026-07-01T11:15:50.928Z'
+submitted_at: '2026-07-01T14:18:03.180Z'
