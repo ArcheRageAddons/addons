@@ -1,0 +1,19 @@
+name: Unit Tracker
+folder_name: unittracker
+author: blank0043
+version: 1.0.0
+category: Combat
+keywords:
+  - player tracker
+  - enemy tracker
+dependencies:
+  - globals
+github:
+  repo: blank0443/archerage-addons
+  branch: main
+  commit: 701b47e945f413c3af28b2b00c7c529379dac6c9
+  path: unittracker
+has_dangerous_files: false
+submitter_discord: blank0043
+submitter_github: blank0443
+submitted_at: '2026-07-14T17:59:31.965Z'
