@@ -1,7 +1,7 @@
 name: Unit Tracker
 folder_name: unittracker
 author: blank0043
-version: 1.1.0
+version: 1.2.0
 category: Combat
 icon: https://raw.githubusercontent.com/blank0443/addon_assets/refs/heads/main/unit_tracker/tracker.png
 keywords:
@@ -12,9 +12,9 @@ dependencies:
 github:
   repo: blank0443/archerage-addons
   branch: main
-  commit: 78349ad5298807f14c0c4361f53a9999c41f838d
+  commit: 6c269983c0135d18748ebcbc496953eb05327694
   path: unittracker
 has_dangerous_files: false
 submitter_discord: blank0043
 submitter_github: blank0443
-submitted_at: '2026-07-20T16:48:10.044Z'
+submitted_at: '2026-07-21T15:09:55.822Z'
