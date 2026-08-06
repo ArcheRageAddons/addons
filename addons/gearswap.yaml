@@ -1,7 +1,7 @@
 name: gearswap
 folder_name: gearswap
 author: Strawberry
-version: 1.0.1
+version: 1.0.2
 description: Simple swap-your-gear button.
 category: Quality of Life
 icon: https://raw.githubusercontent.com/Strawberry-devs/ArcheRage-addons/refs/heads/master/z_images/gearswap.png
@@ -13,9 +13,9 @@ dependencies:
 github:
   repo: Strawberry-devs/ArcheRage-addons
   branch: master
-  commit: 488c6a922eb5f08bdfe92841656189714492d878
+  commit: 75fe9e6a6c597c1c66fc8cde2fd7afef6d2717fa
   path: gearswap
 has_dangerous_files: false
 submitter_discord: Noir
 submitter_github: Strawberry-devs
-submitted_at: '2026-05-16T13:57:30.431Z'
+submitted_at: '2026-08-06T17:08:03.698Z'
