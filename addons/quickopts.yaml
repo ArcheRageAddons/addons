@@ -1,0 +1,20 @@
+name: Quick Opts
+folder_name: quickopts
+author: blank0043
+version: 1.0.0
+category: Quality of Life
+icon: https://raw.githubusercontent.com/blank0443/addon_assets/main/quickopts/gears_48.png
+keywords:
+  - quick settings
+  - settings
+dependencies:
+  - globals
+github:
+  repo: blank0443/archerage-addons
+  branch: main
+  commit: 2af2861d8437a8f644b8f7bb8744727f8b54f9ed
+  path: quickopts
+has_dangerous_files: false
+submitter_discord: blank0043
+submitter_github: blank0443
+submitted_at: '2026-08-13T08:31:20.755Z'
