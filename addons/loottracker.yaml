@@ -1,7 +1,7 @@
 name: Loot Tracker
 folder_name: loottracker
 author: blank0043
-version: 1.7.0
+version: 2.0.0
 category: Utility
 icon: https://raw.githubusercontent.com/blank0443/addon_assets/refs/heads/main/loot_tracker/coinpurse.png
 keywords:
@@ -12,9 +12,9 @@ dependencies:
 github:
   repo: blank0443/archerage-addons
   branch: main
-  commit: b6731dc9700416009db2d80172008a57da4f052d
+  commit: 013f80d38ada7fd187f40f842188aa6d978b645d
   path: loottracker
 has_dangerous_files: false
 submitter_discord: blank0043
 submitter_github: blank0443
-submitted_at: '2026-07-05T07:59:19.321Z'
+submitted_at: '2026-08-17T12:53:04.718Z'
