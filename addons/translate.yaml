@@ -1,7 +1,7 @@
 name: translate
 folder_name: translate
 author: Strawberry
-version: 1.0.1
+version: 1.0.2
 description: >-
   Translates a lot of languages to other languages automatically in game. Run ToX.bat while running the game for it to
   work.
@@ -17,7 +17,7 @@ dependencies:
 github:
   repo: Strawberry-devs/ArcheRage-addons
   branch: master
-  commit: b3739180e406c7f6601ea37dc00eda132828bba2
+  commit: 6e7d31147aea9aae823b0c0711cd36022d36c9f9
   path: translate
 has_dangerous_files: true
 dangerous_files:
@@ -30,4 +30,4 @@ dangerous_files:
   - translate/translatetofilep2.ps1
 submitter_discord: Noir
 submitter_github: Strawberry-devs
-submitted_at: '2026-05-20T12:47:03.785Z'
+submitted_at: '2026-08-23T02:30:58.582Z'
