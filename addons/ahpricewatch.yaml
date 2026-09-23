@@ -8,7 +8,6 @@ keywords:
   - market
   - price tracker
   - watchlist
-  - trading
   - economy
 dependencies:
   - globals
