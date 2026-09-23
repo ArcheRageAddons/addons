@@ -1,0 +1,22 @@
+name: AH Tracker
+folder_name: ahpricewatch
+author: Chaewony
+version: 1.1.2
+category: Trading & Economy
+keywords:
+  - auction house
+  - market
+  - price tracker
+  - watchlist
+  - trading
+  - economy
+dependencies:
+  - globals
+github:
+  repo: ChaewonyLabs/AH-Tracker
+  branch: main
+  commit: c318c13e5c6d9d5c229a82446eebea0fa3e1598d
+has_dangerous_files: false
+submitter_discord: おにぎり伝説
+submitter_github: ChaewonyLabs
+submitted_at: '2026-09-23T03:08:46.565Z'
