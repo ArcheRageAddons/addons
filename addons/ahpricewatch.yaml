@@ -1,7 +1,7 @@
 name: AH Tracker
 folder_name: ahpricewatch
 author: Chaewony Labs
-version: 1.1.2
+version: 1.1.3
 category: Trading & Economy
 icon: https://raw.githubusercontent.com/ChaewonyLabs/AH-Tracker/main/assets/icon.png
 keywords:
@@ -15,8 +15,8 @@ dependencies:
 github:
   repo: ChaewonyLabs/AH-Tracker
   branch: main
-  commit: 266cb2c69417d7db679c8eadaa63fd5ecb852da2
+  commit: 8e17e498e172d0e5892db9f0513e8cdea1ecf7f4
 has_dangerous_files: false
 submitter_discord: Chaewony
 submitter_github: ChaewonyLabs
-submitted_at: '2026-09-23T04:46:11.730Z'
+submitted_at: '2026-09-27T10:10:23.649Z'
