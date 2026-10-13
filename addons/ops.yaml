@@ -1,12 +1,33 @@
 name: Oso Pack Service
 folder_name: OPS
 author: MD
-version: 1.1.2
-description: |-
+version: 1.7.6
+description: >
   -Records turned in Packs/Cargo 
+
   -Calculates and snapshots Payouts, Profits and cost
+
   -Gives an estimate of the profit to be expected from the pending packs/cargo
+
+  -Expanded ledger: filter by date, pack, payout, pricing and archive status; sort columns; view ROI and known-profit
+  totals; resize the ledger to show more rows and longer pack names.
+
+  -Per-pack costs: configure materials, Eco-Friendly Fuel, Axle Grease and labor. Use manual or auction prices; labor
+  estimates use the cheapest known eligible labor item per restored point.
+
+  -Rates and trends: monitor payout percentages over time, compare recent periods or time-of-day averages, and inspect
+  coverage, gaps and best observed hours.
+
+  -Multi-pack routes: compare up to six pack/route combinations across regions in one chart or in independently movable
+  mini-graphs.
+
+  -Price and profit charts: show rate, estimated price, profit, or rate and price together; the price appears below each
+  pack's name/rate. Missing data remains explicit.
+
+  -Graph controls: move and resize graphs, set compact text and font size, choose transparent/shaded/dark backgrounds,
+  change periods from a floating graph, and select saved preset or custom colors by pack and route.
 category: Trading & Economy
+icon: https://wiki.archerage.to/static/images/icons/icon_item_3871.dds.png
 keywords:
   - Packs
   - Trade
@@ -16,9 +37,8 @@ dependencies:
 github:
   repo: P-Raphael/OSO-TradePack-Ledger
   branch: master
-  commit: 3338880db4a6e24857afe7a7ce24e7d5d331506e
+  commit: e38da40130efe2b3a803c2029182b295db9262cc
 has_dangerous_files: false
 submitter_discord: MD
 submitter_github: P-Raphael
-submitted_at: '2026-06-14T04:32:31.476Z'
-icon: https://wiki.archerage.to/static/images/icons/icon_item_3871.dds.png
+submitted_at: '2026-10-13T16:39:59.101Z'
