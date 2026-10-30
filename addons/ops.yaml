@@ -1,7 +1,7 @@
 name: Oso Pack Service
 folder_name: OPS
 author: MD
-version: 1.7.6
+version: '18.1'
 description: >
   -Records turned in Packs/Cargo 
 
@@ -37,8 +37,8 @@ dependencies:
 github:
   repo: P-Raphael/OSO-TradePack-Ledger
   branch: master
-  commit: e38da40130efe2b3a803c2029182b295db9262cc
+  commit: 8100ecbe77368ba2b2ba8147b8d8122430c9a96a
 has_dangerous_files: false
 submitter_discord: MD
 submitter_github: P-Raphael
-submitted_at: '2026-10-13T16:39:59.101Z'
+submitted_at: '2026-10-14T20:09:02.555Z'
